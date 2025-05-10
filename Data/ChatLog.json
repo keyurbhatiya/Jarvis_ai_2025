@@ -1,0 +1,90 @@
+[
+    {
+        "role": "user",
+        "content": "hey"
+    },
+    {
+        "role": "assistant",
+        "content": "Hello!"
+    },
+    {
+        "role": "user",
+        "content": "how are you"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm doing well, thank you!"
+    },
+    {
+        "role": "user",
+        "content": "what is my name"
+    },
+    {
+        "role": "assistant",
+        "content": "Your name is Keyur Bhatiya."
+    },
+    {
+        "role": "user",
+        "content": "what is your name"
+    },
+    {
+        "role": "assistant",
+        "content": "My name is Jarvis."
+    },
+    {
+        "role": "user",
+        "content": "who is RDJ"
+    },
+    {
+        "role": "assistant",
+        "content": "RDJ stands for Robert John Downey Jr., an actor known for his iconic role as Tony Stark/Iron Man in the Marvel Cinematic Universe."
+    },
+    {
+        "role": "user",
+        "content": "Jarvis fullform"
+    },
+    {
+        "role": "assistant",
+        "content": "Jarvis stands for Just A Rather Very Intelligent System."
+    },
+    {
+        "role": "user",
+        "content": "today date"
+    },
+    {
+        "role": "assistant",
+        "content": "Today's date is May 10, 2025."
+    },
+    {
+        "role": "user",
+        "content": "bye"
+    },
+    {
+        "role": "assistant",
+        "content": "Goodbye!"
+    },
+    {
+        "role": "user",
+        "content": "tata steel share price"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the current information, the Tata Steel Ltd. share price is \u20b9143."
+    },
+    {
+        "role": "user",
+        "content": "reliance share price"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the current information, the Reliance Industries Ltd. share price is \u20b91,377."
+    },
+    {
+        "role": "user",
+        "content": "sbi gold etf share price"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the current information, the SBI Gold ETF share price is \u20b983.54."
+    }
+]
